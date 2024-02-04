@@ -115,6 +115,13 @@ Thanks goes to these wonderful people
         </a>
     </td>
     <td align="center">
+        <a href="https://github.com/sirodoht">
+            <img src="https://avatars.githubusercontent.com/u/553444?v=4" width="80;" alt="sirodoht"/>
+            <br />
+            <sub><b>Theodore Keloglou</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/ilesinge">
             <img src="https://avatars.githubusercontent.com/u/501674?v=4" width="80;" alt="ilesinge"/>
             <br />
@@ -133,13 +140,6 @@ Thanks goes to these wonderful people
             <img src="https://avatars.githubusercontent.com/u/482212?v=4" width="80;" alt="dmbaturin"/>
             <br />
             <sub><b>Daniil Baturin</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/sirodoht">
-            <img src="https://avatars.githubusercontent.com/u/553444?v=4" width="80;" alt="sirodoht"/>
-            <br />
-            <sub><b>Theodore Keloglou</b></sub>
         </a>
     </td></tr>
 <tr>
