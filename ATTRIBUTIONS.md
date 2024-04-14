@@ -462,7 +462,7 @@ Thanks goes to these wonderful people
         <a href="https://github.com/mrfelpa">
             <img src="https://avatars.githubusercontent.com/u/65371336?v=4" width="80;" alt="mrfelpa"/>
             <br />
-            <sub><b>mrfelpa</b></sub>
+            <sub><b>Mrfelpa</b></sub>
         </a>
     </td>
     <td align="center">
