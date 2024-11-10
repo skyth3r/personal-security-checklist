@@ -323,10 +323,10 @@ Thanks goes to these wonderful people
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/pabloscloud">
-            <img src="https://avatars.githubusercontent.com/u/93644977?v=4" width="80;" alt="pabloscloud"/>
+        <a href="https://github.com/pablo03v">
+            <img src="https://avatars.githubusercontent.com/u/93644977?v=4" width="80;" alt="pablo03v"/>
             <br />
-            <sub><b>Pabloscloud</b></sub>
+            <sub><b>pablo03v</b></sub>
         </a>
     </td>
     <td align="center">
