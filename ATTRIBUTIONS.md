@@ -165,10 +165,10 @@ Thanks goes to these wonderful people
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/leon-costa">
-            <img src="https://avatars.githubusercontent.com/u/83498565?v=4" width="80;" alt="leon-costa"/>
+        <a href="https://github.com/101lols">
+            <img src="https://avatars.githubusercontent.com/u/29000894?v=4" width="80;" alt="101lols"/>
             <br />
-            <sub><b>Leon Costa</b></sub>
+            <sub><b>101lols</b></sub>
         </a>
     </td>
     <td align="center">
@@ -359,13 +359,6 @@ Thanks goes to these wonderful people
     </td></tr>
 <tr>
     <td align="center">
-        <a href="https://github.com/101lols">
-            <img src="https://avatars.githubusercontent.com/u/29000894?v=4" width="80;" alt="101lols"/>
-            <br />
-            <sub><b>101lols</b></sub>
-        </a>
-    </td>
-    <td align="center">
         <a href="https://github.com/boushley">
             <img src="https://avatars.githubusercontent.com/u/101239?v=4" width="80;" alt="boushley"/>
             <br />
@@ -399,15 +392,15 @@ Thanks goes to these wonderful people
             <br />
             <sub><b>Ben Thul</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/BBlackwo">
             <img src="https://avatars.githubusercontent.com/u/7598058?v=4" width="80;" alt="BBlackwo"/>
             <br />
             <sub><b>Benjamin B</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/BrunoBernardino">
             <img src="https://avatars.githubusercontent.com/u/1239616?v=4" width="80;" alt="BrunoBernardino"/>
@@ -442,27 +435,20 @@ Thanks goes to these wonderful people
             <br />
             <sub><b>Dimitris Lazarakis</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/VoDmAl">
             <img src="https://avatars.githubusercontent.com/u/248879?v=4" width="80;" alt="VoDmAl"/>
             <br />
             <sub><b>Dmitry Vorobyev</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/federicoviceconti">
             <img src="https://avatars.githubusercontent.com/u/25590766?v=4" width="80;" alt="federicoviceconti"/>
             <br />
             <sub><b>Federico</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/mrfelpa">
-            <img src="https://avatars.githubusercontent.com/u/65371336?v=4" width="80;" alt="mrfelpa"/>
-            <br />
-            <sub><b>Mrfelpa</b></sub>
         </a>
     </td>
     <td align="center">
@@ -485,8 +471,7 @@ Thanks goes to these wonderful people
             <br />
             <sub><b>Hwanhee Chae</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/jacobneplokh">
             <img src="https://avatars.githubusercontent.com/u/46184597?v=4" width="80;" alt="jacobneplokh"/>
@@ -500,7 +485,8 @@ Thanks goes to these wonderful people
             <br />
             <sub><b>Jason G</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/mxygem">
             <img src="https://avatars.githubusercontent.com/u/21065409?v=4" width="80;" alt="mxygem"/>
@@ -528,8 +514,7 @@ Thanks goes to these wonderful people
             <br />
             <sub><b>Juergen Edelbluth</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/fetzu">
             <img src="https://avatars.githubusercontent.com/u/6372605?v=4" width="80;" alt="fetzu"/>
@@ -543,7 +528,8 @@ Thanks goes to these wonderful people
             <br />
             <sub><b>Kai Biebel</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/koirand">
             <img src="https://avatars.githubusercontent.com/u/17229643?v=4" width="80;" alt="koirand"/>
@@ -556,6 +542,13 @@ Thanks goes to these wonderful people
             <img src="https://avatars.githubusercontent.com/u/64036903?v=4" width="80;" alt="Kotbenek"/>
             <br />
             <sub><b>Dominik Piątkowski</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/leon-costa">
+            <img src="https://avatars.githubusercontent.com/u/83498565?v=4" width="80;" alt="leon-costa"/>
+            <br />
+            <sub><b>Leon Costa</b></sub>
         </a>
     </td></tr>
 </table>
